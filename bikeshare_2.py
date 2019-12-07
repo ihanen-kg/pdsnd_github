@@ -32,7 +32,7 @@ def get_filters():
 
     while True:
             try:
-                month = str(input("which month? january, february, march, april, may, , june or all. ")).lower()
+                month = str(input("which month? January, February, March, April, May, , June or all. ")).lower()
 
             except ValueError:
                 print("That\' not a valid response!")
@@ -49,7 +49,7 @@ def get_filters():
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
             try:
-                day = str(input("which day? Please type weekday or all days. ")).lower()
+                day = str(input("Which day? Please type weekday name or all days. ")).lower()
             except ValueError:
                 print()
             except KeyboardInterrupt:
