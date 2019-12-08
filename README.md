@@ -12,4 +12,4 @@ by months and weekday for one city form his choice.
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bikeshare is A project for (Programming for Data Science Nano Degree) _ Udacity
